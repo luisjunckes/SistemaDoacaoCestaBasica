@@ -1,0 +1,60 @@
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\bin\Debug\net5.0-windows\situacaoAprendizagem.exe
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\bin\Debug\net5.0-windows\situacaoAprendizagem.deps.json
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\bin\Debug\net5.0-windows\situacaoAprendizagem.runtimeconfig.json
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\bin\Debug\net5.0-windows\situacaoAprendizagem.runtimeconfig.dev.json
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\bin\Debug\net5.0-windows\situacaoAprendizagem.dll
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\bin\Debug\net5.0-windows\ref\situacaoAprendizagem.dll
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\bin\Debug\net5.0-windows\situacaoAprendizagem.pdb
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.csproj.AssemblyReference.cache
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.VIEW.CadastroPessoas.resources
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.Form1.resources
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.csproj.GenerateResource.cache
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.AssemblyInfoInputs.cache
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.AssemblyInfo.cs
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.csproj.CoreCompileInputs.cache
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.dll
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\obj\Debug\net5.0-windows\ref\situacaoAprendizagem.dll
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.pdb
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.genruntimeconfig.cache
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.csproj.CopyComplete
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.VIEW.CadastroFamilia.resources
+C:\Users\luisj\Desktop\situacaoAprendizagem\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.Properties.Resources.resources
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\bin\Debug\net5.0-windows\situacaoAprendizagem.exe
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\bin\Debug\net5.0-windows\situacaoAprendizagem.deps.json
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\bin\Debug\net5.0-windows\situacaoAprendizagem.runtimeconfig.json
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\bin\Debug\net5.0-windows\situacaoAprendizagem.runtimeconfig.dev.json
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\bin\Debug\net5.0-windows\situacaoAprendizagem.dll
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\bin\Debug\net5.0-windows\ref\situacaoAprendizagem.dll
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\bin\Debug\net5.0-windows\situacaoAprendizagem.pdb
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.csproj.AssemblyReference.cache
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.Properties.Resources.resources
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.VIEW.CadastroFamilia.resources
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.VIEW.CadastroPessoas.resources
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.csproj.GenerateResource.cache
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.AssemblyInfoInputs.cache
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.AssemblyInfo.cs
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.csproj.CoreCompileInputs.cache
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.csproj.CopyComplete
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.dll
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\obj\Debug\net5.0-windows\ref\situacaoAprendizagem.dll
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.pdb
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.genruntimeconfig.cache
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.VIEW.CadastroAcao.resources
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.Linchester.resources
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.VIEW.RelatorioAcoes.resources
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.VIEW.RelatorioFamilias.resources
+C:\Users\luisj\Desktop\Nova pasta\situacaoAprendizagem\obj\Debug\net5.0-windows\situacaoAprendizagem.VIEW.RelatorioPessoas.resources
